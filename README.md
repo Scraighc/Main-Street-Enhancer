@@ -1,6 +1,7 @@
 # Main-Street-Enhancer
-Main Street Enhancer
 cargo toml 
+Main Street Enhancer
+
 
 # Import necessary libraries (available in the environment: flask for API, matplotlib for viz, numpy for calculations)
 from flask import Flask, jsonify
