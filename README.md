@@ -1,6 +1,8 @@
 # Main-Street-Enhancer
 Main Street Enhancer
 
+cargo init
+
 # Import necessary libraries (available in the environment: flask for API, matplotlib for viz, numpy for calculations)
 from flask import Flask, jsonify
 import numpy as np
