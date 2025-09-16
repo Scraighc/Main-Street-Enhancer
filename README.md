@@ -1,6 +1,5 @@
 # Main-Street-Enhancer
 Main Street Enhancer
-
 cargo toml 
 
 # Import necessary libraries (available in the environment: flask for API, matplotlib for viz, numpy for calculations)
